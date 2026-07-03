@@ -44,7 +44,6 @@ This model is suitable for:
 
 ## Model Accuracy
 
-- Designed using manufacturer datasheet dimensions
 - Suitable for PCB and enclosure design
 - Intended for mechanical representation
 
@@ -62,7 +61,7 @@ This model is suitable for:
 
 ## Reference
 
-Manufacturer Datasheet
+BMP180 Sensor
 
 ---
 
