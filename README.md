@@ -48,6 +48,7 @@ Every model is organized with documentation, preview images, and industry-standa
 | 🔌 Connectors | **0** | ⚪ |
 | ⚡ Power | **0** | ⚪ |
 | 📦 Miscellaneous | **0** | ⚪ |
+| 🧩 Modules |**0**|⚪|
 
 ---
 
