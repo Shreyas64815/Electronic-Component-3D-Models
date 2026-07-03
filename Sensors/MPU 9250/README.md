@@ -27,7 +27,7 @@ This model is suitable for:
 | Component | MPU-9250 Motion Tracking Module |
 | Sensor Type | 9-Axis IMU |
 | Interface | I²C / SPI |
-| Pin Count | 8 |
+| Pin Count | 10 |
 | CAD Software | Autodesk Fusion 360 |
 | File Formats | STEP, STL |
 
