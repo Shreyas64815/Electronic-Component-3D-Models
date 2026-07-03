@@ -49,7 +49,7 @@ Dimensions were modeled using the official manufacturer datasheet and verified f
 
 ## Author
 
-**Designed by:** Shreyas Suvarna
+**Designed by:** Shreyas Suvarna V
 
 Electronics & Communication Engineering Student  
 NMAM Institute of Technology (NMAMIT)
