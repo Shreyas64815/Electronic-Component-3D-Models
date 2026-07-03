@@ -52,14 +52,6 @@ Every model is organized with documentation, preview images, and industry-standa
 
 ---
 
-# 📚 Available Components
-
-## 📡 Sensors
-
-| Component | Files |
-|-----------|-------|
-| BMP180 Pressure Sensor Module | STEP • STL |
-
 ---
 
 # 📂 Repository Structure
@@ -67,14 +59,14 @@ Every model is organized with documentation, preview images, and industry-standa
 ```text
 Electronic-Component-3D-Models
 │
-├── Sensors
-├── Microcontrollers
-├── Displays
 ├── Connectors
+├── Displays
+├── Microcontrollers
+├── Miscellaneous
+├── Module
 ├── Motors
 ├── Power
-├── Modules
-└── Miscellaneous
+└── Sennsors
 ```
 
 ---
