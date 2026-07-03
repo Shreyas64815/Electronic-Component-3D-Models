@@ -1,74 +1,102 @@
+
 <p align="center">
   <img src="assets/banner.png" alt="Electronic Component 3D Models Banner">
 </p>
-# Electronic Component 3D Models
 
-A growing collection of accurate 3D CAD models of electronic components designed in Autodesk Fusion 360.
+<h1 align="center">Electronic Component 3D Models</h1>
 
-The purpose of this repository is to provide high-quality mechanical models for:
+<p align="center">
+A growing collection of accurate electronic component CAD models created in Autodesk Fusion 360.
+</p>
+
+---
+
+## 📖 About
+
+This repository contains high-quality 3D CAD models of commonly used electronic components for:
 
 - PCB assembly visualization
-- Enclosure design
+- Product enclosure design
 - Mechanical integration
-- Product development
+- Robotics projects
+- Embedded systems
 - Engineering education
 
+Every model is organized with documentation, preview images, and industry-standard CAD formats.
+
 ---
 
-## Repository Structure
+# 📊 Repository Statistics
 
-```
+| Item | Count |
+|------|------:|
+| 📦 Total Components | **1** |
+| 📂 Categories | **7** |
+| 📐 STEP Models | **1** |
+| 🖨 STL Models | **1** |
+
+---
+
+# 📁 Categories
+
+| Category | Components | Status |
+|----------|-----------:|:------:|
+| 📡 Sensors | **1** | 🟢 |
+| 💻 Microcontrollers | **0** | ⚪ |
+| ⚙️ motors | **0** | ⚪ |
+| 🖥 Displays | **0** | ⚪ |
+| 🔌 Connectors | **0** | ⚪ |
+| ⚡ Power | **0** | ⚪ |
+| 📦 Miscellaneous | **0** | ⚪ |
+
+---
+
+# 📚 Available Components
+
+## 📡 Sensors
+
+| Component | Files |
+|-----------|-------|
+| BMP180 Pressure Sensor Module | STEP • STL |
+
+---
+
+# 📂 Repository Structure
+
+```text
 Electronic-Component-3D-Models
 │
-├── Connectors
-├── Displays
+├── Sensors
 ├── Microcontrollers
-├── Miscellaneous
+├── Displays
+├── Connectors
 ├── Motors
 ├── Power
-└── Sensors
+└── Miscellaneous
 ```
 
 ---
 
-## Categories
+# ⭐ Quality Standard
 
-| Category | Components |
-|----------|------------|
-| Connectors | 0 |
-| Displays | 0 |
-| Microcontrollers | 0 |
-| Miscellaneous | 0 |
-| Motors | 0 |
-| Power | 0 |
-| Sensors | 1 |
+Every uploaded component follows these principles:
+
+- ✅ STEP model included
+- ✅ STL model included
+- ✅ Preview image included
+- ✅ Suitable for enclosure and mechanical design
 
 ---
 
-## Available Components
+# 🛠 Software
 
-### Sensors
+Models are created using:
 
-| Component | Status |
-|----------|--------|
-| BMP180 Pressure Sensor Module | ✅ Available |
+- Autodesk Fusion 360
 
 ---
 
-## File Formats
-
-Each component may include:
-
-- STEP (.step)
-- STL (.stl)
-- Preview Render (.png)
-- Documentation (README)
-
-The original Fusion 360 source files are intentionally not included.
-
----
-
-## Author
+# 👨‍💻 Author
 
 **Shreyas Suvarna V**
 
@@ -78,7 +106,7 @@ NMAM Institute of Technology (NMAMIT)
 
 ---
 
-## License
+# 📜 License
 
 These models are provided for educational, research, and engineering purposes.
 
