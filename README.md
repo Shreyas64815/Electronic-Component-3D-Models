@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Electronic Component 3D Models Banner">
+</p>
 # Electronic Component 3D Models
 
 A growing collection of accurate 3D CAD models of electronic components designed in Autodesk Fusion 360.
