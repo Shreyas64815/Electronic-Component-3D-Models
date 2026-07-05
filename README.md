@@ -31,7 +31,7 @@ Every model is organized with documentation, preview images, and industry-standa
 | Item | Count |
 |------|------:|
 | 📦 Total Components | **2** |
-| 📂 Categories | **8** |
+| 📂 Categories | **9** |
 | 📐 STEP Models | **2** |
 | 🖨 STL Models | **2** |
 
@@ -49,6 +49,7 @@ Every model is organized with documentation, preview images, and industry-standa
 | ⚡ Power | **0** | ⚪ |
 | 📦 Miscellaneous | **0** | ⚪ |
 | 🧩 Modules |**0**|⚪|
+| 🧩 Electromechanical |**1**|🟢|
 
 ---
 
@@ -61,6 +62,7 @@ Electronic-Component-3D-Models
 │
 ├── Connectors
 ├── Displays
+├── Electromechanical
 ├── Microcontrollers
 ├── Miscellaneous
 ├── Module
