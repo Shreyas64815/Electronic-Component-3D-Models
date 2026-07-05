@@ -49,7 +49,7 @@ Every model is organized with documentation, preview images, and industry-standa
 | ⚡ Power | **0** | ⚪ |
 | 📦 Miscellaneous | **0** | ⚪ |
 | 🧩 Modules |**0**|⚪|
-| 🧩 Electromechanical |**1**|🟢|
+| 🔘 Electromechanical |**1**|🟢|
 
 ---
 
