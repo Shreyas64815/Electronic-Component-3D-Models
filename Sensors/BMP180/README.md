@@ -61,8 +61,7 @@ This model is suitable for:
 
 ## Reference
 
-BMP180 Sensor
-
+Dimensions were modeled using available technical references, and verified measurements where applicable.
 ---
 
 ## Author
