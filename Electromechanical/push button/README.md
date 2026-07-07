@@ -63,8 +63,7 @@ This model is suitable for:
 
 ## Reference
 
-Push model component.
-
+Dimensions were modeled using available technical references, and verified measurements where applicable.
 ---
 
 ## Author
