@@ -61,8 +61,7 @@ This model is suitable for:
 
 ## Reference
 
-MPU 9250 sensor
-
+Dimensions were modeled using available technical references, and verified measurements where applicable.
 ---
 
 ## Author
