@@ -68,7 +68,7 @@ This model is suitable for:
 
 ## Reference
 
-Dimensions were modeled using manufacturer documentation, available technical references, and verified measurements where applicable.
+Dimensions were modeled using available technical references, and verified measurements where applicable.
 
 ---
 
