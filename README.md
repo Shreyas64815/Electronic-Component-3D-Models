@@ -44,7 +44,7 @@ Every model is organized with documentation, preview images, and industry-standa
 | 📡 Sensors | **2** | 🟢 |
 | 💻 Microcontrollers | **0** | ⚪ |
 | ⚙️ motors | **0** | ⚪ |
-| 🖥 Displays | **0** | ⚪ |
+| 🖥 Displays | **1** | 🟢 |
 | 🔌 Connectors | **0** | ⚪ |
 | ⚡ Power | **0** | ⚪ |
 | 📦 Miscellaneous | **0** | ⚪ |
