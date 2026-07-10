@@ -47,9 +47,9 @@ Every model is organized with documentation, preview images, and industry-standa
 | 🖥 Displays | **1** | 🟢 |
 | 🔌 Connectors | **0** | ⚪ |
 | ⚡ Power | **0** | ⚪ |
-| 📦 Miscellaneous | **0** | ⚪ |
-| 🧩 Modules |**0**|⚪|
-| 🔘 Electromechanical |**2**|🟢|
+| 📦 Miscellaneous | **2** | 🟢 |
+| 🧩 Modules |**0**| ⚪ |
+| 🔘 Electromechanical |**2**| 🟢 |
 
 ---
 
