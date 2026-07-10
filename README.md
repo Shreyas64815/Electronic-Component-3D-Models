@@ -30,10 +30,10 @@ Every model is organized with documentation, preview images, and industry-standa
 
 | Item | Count |
 |------|------:|
-| 📦 Total Components | **2** |
+| 📦 Total Components | **7** |
 | 📂 Categories | **9** |
-| 📐 STEP Models | **2** |
-| 🖨 STL Models | **2** |
+| 📐 STEP Models | **7** |
+| 🖨 STL Models | **7** |
 
 ---
 
