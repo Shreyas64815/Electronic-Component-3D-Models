@@ -30,10 +30,10 @@ Every model is organized with documentation, preview images, and industry-standa
 
 | Item | Count |
 |------|------:|
-| 📦 Total Components | **12** |
+| 📦 Total Components | **14** |
 | 📂 Categories | **9** |
-| 📐 STEP Models | **12** |
-| 🖨 STL Models | **12** |
+| 📐 STEP Models | **14** |
+| 🖨 STL Models | **14** |
 
 ---
 
@@ -47,7 +47,7 @@ Every model is organized with documentation, preview images, and industry-standa
 | 🖥 Displays | **1** | 🟢 |
 | 🔌 Connectors | **1** | 🟢 |
 | ⚡ Power | **3** | 🟢 |
-| 📦 Miscellaneous | **2** | 🟢 |
+| 📦 Miscellaneous | **4** | 🟢 |
 | 🧩 Modules |**0**| ⚪ |
 | 🔘 Electromechanical |**2**| 🟢 |
 
